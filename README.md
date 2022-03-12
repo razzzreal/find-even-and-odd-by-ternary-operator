@@ -1,0 +1,1 @@
+# find-even-and-odd-by-ternary-operator
