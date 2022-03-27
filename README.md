@@ -8,7 +8,7 @@ void main()
     
       }
 
-
+/*even &odd by if else statement*/
 
 #include<stdio.h>
 void main()
